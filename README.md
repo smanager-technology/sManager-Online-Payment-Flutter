@@ -1,5 +1,3 @@
-[বাংলা]() | [English]()
-
 # sManager Online Payment - FLUTTER
 
 A package for online payment. Its depends on sManager policy.
@@ -179,3 +177,14 @@ _onlinePayment.paymentDetails(TRANSACTION_ID).then((PaymentDetails paymentDetail
   StatusCode.FAILED_TO_INITIATE
 
 ```
+
+### Contributors
+
+>Saleh Ahmad
+
+- Author : sManager Technology
+- Email: smanager.tech@gmail.com (For any query)
+- About sManager Technology: https://smanagerit.xyz/
+- About sManager: https://smanager.xyz/
+
+© 2021 sManager Technology ALL RIGHTS RESERVED
