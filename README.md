@@ -62,7 +62,7 @@ import 'package:online_payment/online_payment.dart';
 
 #### Way 1 (Workflow)
 ###### Step 1 (Initiate Payment Link)
-Replace **CLIENT_ID** and **CLIENT_SECRET**
+Replace **CLIENT_ID** and **CLIENT_SECRET**.<br>
 *Collect **CLIENT_ID** and **CLIENT_SECRET** form sManager*
 ```dart
 final Credentials _credentials = Credentials(
