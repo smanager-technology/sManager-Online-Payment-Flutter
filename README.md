@@ -20,9 +20,10 @@ Step 4. <code>Step 3</code> return success or failure response
 
 
 ##### How to use
-Way 1. Follow the Workflow<br>
-Way 2. Use Widget<br>
-Get Payment Details
+* Get Payment
+    * Way 1. Follow the Workflow<br>
+    * Way 2. Use Widget<br>
+* Get Payment Details
 
 ##### Source
 Read full details [here](https://smanagerit.xyz/online-payment-doc).<br>
