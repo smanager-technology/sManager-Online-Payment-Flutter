@@ -13,21 +13,21 @@ We are providing sManager Online Payment for **FLUTTER**. For, now it only suppo
 * [uuid: - ^3.0.4](https://pub.dev/packages/uuid)
 
 ##### Workflow
-Step 1. Initiate Payment Link
-Step 2. <code>Step 1</code> return a **JSON** response with a **link**
-Step 3. Go to **link** form <code>Step 2</code> and start payment process
+Step 1. Initiate Payment Link<br>
+Step 2. <code>Step 1</code> return a **JSON** response with a **link**<br>
+Step 3. Go to **link** form <code>Step 2</code> and start payment process<br>
 Step 4. <code>Step 3</code> return success or failure response
 
 
 ##### How to use
-Way 1. Follow the Workflow
-Way 2. Use Widget
+Way 1. Follow the Workflow<br>
+Way 2. Use Widget<br>
 Get Payment Details
 
 ##### Source
-Read full details [here](https://smanagerit.xyz/online-payment-doc)
-Example code [here]()
-Demo APK [here]()
+Read full details [here](https://smanagerit.xyz/online-payment-doc).<br>
+Example code [here](https://github.com/smanager-technology/sManager-Online-Payment-Flutter/blob/master/example/main.dart).<br>
+Demo APK [here](https://github.com/smanager-technology/sManager-Online-Payment-Flutter/blob/master/assets/online%20payment.apk).
 
 ## Getting Started
 
