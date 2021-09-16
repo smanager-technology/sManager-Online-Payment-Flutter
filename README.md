@@ -180,7 +180,7 @@ _onlinePayment.paymentDetails(TRANSACTION_ID).then((PaymentDetails paymentDetail
 
 ### Contributors
 
->Saleh Ahmad
+>Md. Khalid Hassan
 
 - Author : sManager Technology
 - Email: smanager.tech@gmail.com (For any query)
