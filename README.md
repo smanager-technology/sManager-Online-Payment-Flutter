@@ -136,13 +136,13 @@ OnlinePaymentSM(
       /// TODO implement here
    },
    paymentFailed: () {
-          /// TODO implement here
-          print("paymentFailed");
-        },
-        paymentInComplete: () {
-          /// TODO implement here
-          print("paymentInComplete");
-        },
+      /// TODO implement here
+      print("paymentFailed");
+   },
+   paymentInComplete: () {
+      /// TODO implement here
+      print("paymentInComplete");
+   },
 )
 ```
 
