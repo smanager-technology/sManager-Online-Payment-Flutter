@@ -49,10 +49,10 @@ flutter pub add online_payment
 This will add a line like this to your package's pubspec.yaml (and run an implicit dart pub get):
 ```yaml
 dependencies:
-	flutter:
-		sdk: flutter
+  flutter:
+    sdk: flutter
 	
-	# add package for online payment
+  # add package for online payment
   online_payment: ^0.0.1
 ```
 
